@@ -1,8 +1,12 @@
 # weather
 Trabalho de aplicações multicamadas usando Springmvc.  
 API utilizada neste projeto pode ser encontrada em: <https://www.weatherapi.com/>
-## Como rodar:
-  Maiores alterações são desnecessárias, bastando executar o projeto em um ambiente capaz de rodar projetos do ecossistema Spring,
+## Requisitos:
+  JDK 11 ou superior  
+  Apache [Maven](https://maven.apache.org/)
+## Quick Start: 
+  Na raíz do projeto, execute-o:  
+  `mvn spring-boot:run`  
 ## Configurações adicionais:
   Criar arquivo contendo chave de autenticação requerida pela API consumida.
   - crie um arquivo de nome __application-auth.properties__ sob o diretório:  
