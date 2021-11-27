@@ -7,6 +7,7 @@ API utilizada neste projeto pode ser encontrada em: <https://www.weatherapi.com/
 ## Quick Start: 
   Na raíz do projeto, execute-o:  
   `mvn spring-boot:run`  
+  Ou rode-o através de seu editor de códigos preferido
 ## Configurações adicionais:
   Criar arquivo contendo chave de autenticação requerida pela API consumida.
   - crie um arquivo de nome __application-auth.properties__ sob o diretório:  
