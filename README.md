@@ -1,5 +1,5 @@
 # weather
-Trabalho de aplicações multicamadas usando Springmvc.  
+Site simples para exibir previsões meteorológicas usando Springmvc.  
 API utilizada neste projeto pode ser encontrada em: <https://www.weatherapi.com/>
 ## Requisitos:
   JDK 11 ou superior  
